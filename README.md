@@ -21,4 +21,7 @@ I am a passionate IT student at Ateneo de Cagayan Xavier University , driven by 
 - 🌟 Completed Git & GitHub Setup 2025
 - 🔭 I’m currently working on my final API project.
 
+## FUN FACT: I like to play with friends than being alone
+
+
 Thanks for stopping by!
